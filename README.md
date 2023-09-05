@@ -16,15 +16,10 @@
 账户admin 密码123456 <br>
 <br>
 
-APP在线预览:[https://uns.dfg145.cfd/img/app端.gif](https://uns.dfg145.cfd/img/app端.gif)<br>
-手机端后台在线预览:[https://uns.dfg145.cfd/img/手机后台.gif](https://uns.dfg145.cfd/img/手机后台.gif)<br>
-PC端电脑后台在线预览: [https://uns.dfg145.cfd/img/pc后台.gif](https://uns.dfg145.cfd/img/pc后台.gif)<br>
+#### APP在线预览:[https://uns.dfg145.cfd/img/app端.gif](https://uns.dfg145.cfd/img/app端.gif)<br>
+#### 手机端后台在线预览:[https://uns.dfg145.cfd/img/手机后台.gif](https://uns.dfg145.cfd/img/手机后台.gif)<br>
+#### PC端电脑后台在线预览: [https://uns.dfg145.cfd/img/pc后台.gif](https://uns.dfg145.cfd/img/pc后台.gif)<br>
 
-
-#### 最近发现一个骗子偷半年前有很多bug的老版本在低价进行售卖，通过小号QQ进行诱骗，请大家注意了，已经骗了很多人，郑重承若代码是全开源
-#### 骗子gitee地址:  https://gitee.com/sports-lottery-source-code
-#### 骗子github地址: https://github.com/lottery-code
-#### 骗子用的小号QQ: 419367301
 
 ### 搭建教程
 [搭建教程](https://youtu.be/7BIIAtqUiUI)
