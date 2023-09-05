@@ -8,9 +8,9 @@
 1.  测试演示环境  <br>
 #### H5在线访问版本一： [https://uap.dfg145.cfd](https://d1jgmyx5hugpku.cloudfront.net)<br>
 #### H5在线访问版本二： [https://uapp.dfg145.cfd](https://d2j37fnif48f3v.cloudfront.net)<br>
+账户17777777777 密码123456 <br>
 
 #### APP包下载地址： [https://uns.dfg145.cfd/app/html/index.html](https://uns.dfg145.cfd/app/html/index.html)<br>
-账户17777777777 密码123456 <br>
 
 ####  手机端后台APK下载地址： [https://uns.dfg145.cfd/admin/html/index.html](https://uns.dfg145.cfd/shoujiadmin/html/index.html)<br>
 账户admin 密码123456 <br>
